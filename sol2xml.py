@@ -31,7 +31,7 @@ OBJCC='\x10'
 
 argv=sys.argv
 if len(argv)<3:
-    print 's2x v0.76'
+    print 's2x v0.76 by iceeLyne, Dec., 2003.'
     print 'Usage:'
     print 'python ' + argv[0] + ' -x foo.sol [foo.xml]'
     print 'python ' + argv[0] + ' -s foo.xml [foo.sol]' else:
